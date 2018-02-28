@@ -1,0 +1,2 @@
+# E-Learning-Environment
+E-LEARNING ENVIRONMENT”, It is a collaborative teaching tool to assist the students to learn in an efficient manner. It aims to complement the efforts of teachers to integrate technology into their classrooms and link the students to the education in a productive way and provide them a stimulating, positive and enjoyable environment to study. My part in the project was to develop the front end of the web application.
